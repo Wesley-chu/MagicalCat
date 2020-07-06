@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  MagicalGrid
+//  tinderUI
 //
-//  Created by 朱偉綸 on 2020/6/17.
+//  Created by 朱偉綸 on 2020/6/15.
 //  Copyright © 2020 朱偉綸. All rights reserved.
 //
 

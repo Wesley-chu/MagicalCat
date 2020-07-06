@@ -8,24 +8,52 @@
 
 /* Begin PBXBuildFile section */
 		0952A27F249A5F4D00797DB8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0952A27E249A5F4D00797DB8 /* AppDelegate.swift */; };
-		0952A281249A5F4D00797DB8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0952A280249A5F4D00797DB8 /* SceneDelegate.swift */; };
 		0952A283249A5F4D00797DB8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0952A282249A5F4D00797DB8 /* ViewController.swift */; };
 		0952A286249A5F4D00797DB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0952A284249A5F4D00797DB8 /* Main.storyboard */; };
 		0952A289249A5F4D00797DB8 /* MagicalGrid.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0952A287249A5F4D00797DB8 /* MagicalGrid.xcdatamodeld */; };
 		0952A28B249A5F5000797DB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0952A28A249A5F5000797DB8 /* Assets.xcassets */; };
 		0952A28E249A5F5000797DB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0952A28C249A5F5000797DB8 /* LaunchScreen.storyboard */; };
+		0952A2BD249FA2F700797DB8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0952A2BC249FA2F600797DB8 /* SceneDelegate.swift */; };
+		0952A31824A2432D00797DB8 /* British_Shorthair.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A30E24A2432D00797DB8 /* British_Shorthair.jpg */; };
+		0952A31924A2432D00797DB8 /* Sphynx.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A30F24A2432D00797DB8 /* Sphynx.jpg */; };
+		0952A31A24A2432D00797DB8 /* Maine_Coon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A31024A2432D00797DB8 /* Maine_Coon.jpg */; };
+		0952A31B24A2432D00797DB8 /* Persian_cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A31124A2432D00797DB8 /* Persian_cat.jpg */; };
+		0952A31C24A2432D00797DB8 /* Siamese.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A31224A2432D00797DB8 /* Siamese.jpg */; };
+		0952A31D24A2432D00797DB8 /* Ragdoll.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A31324A2432D00797DB8 /* Ragdoll.jpg */; };
+		0952A31E24A2432D00797DB8 /* Savannah_cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A31424A2432D00797DB8 /* Savannah_cat.jpg */; };
+		0952A31F24A2432D00797DB8 /* Munchkin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A31524A2432D00797DB8 /* Munchkin.jpg */; };
+		0952A32024A2432D00797DB8 /* Felis_silvestris_catus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A31624A2432D00797DB8 /* Felis_silvestris_catus.jpg */; };
+		0952A32124A2432D00797DB8 /* Bengal_cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A31724A2432D00797DB8 /* Bengal_cat.jpg */; };
+		0952A32324A4F71600797DB8 /* Norway_Cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A32224A4F71600797DB8 /* Norway_Cat.jpg */; };
+		0952A32524A4F71F00797DB8 /* Russian_Blue.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A32424A4F71F00797DB8 /* Russian_Blue.jpg */; };
+		0952A32724A4F72500797DB8 /* Siberian_cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A32624A4F72500797DB8 /* Siberian_cat.jpg */; };
+		0952A32924A4F72C00797DB8 /* Turkey_angora.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0952A32824A4F72C00797DB8 /* Turkey_angora.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0952A27B249A5F4D00797DB8 /* MagicalGrid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MagicalGrid.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0952A27E249A5F4D00797DB8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0952A280249A5F4D00797DB8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		0952A282249A5F4D00797DB8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0952A285249A5F4D00797DB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0952A288249A5F4D00797DB8 /* MagicalGrid.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MagicalGrid.xcdatamodel; sourceTree = "<group>"; };
 		0952A28A249A5F5000797DB8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0952A28D249A5F5000797DB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0952A28F249A5F5000797DB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0952A2BC249FA2F600797DB8 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		0952A30E24A2432D00797DB8 /* British_Shorthair.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = British_Shorthair.jpg; sourceTree = "<group>"; };
+		0952A30F24A2432D00797DB8 /* Sphynx.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sphynx.jpg; sourceTree = "<group>"; };
+		0952A31024A2432D00797DB8 /* Maine_Coon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Maine_Coon.jpg; sourceTree = "<group>"; };
+		0952A31124A2432D00797DB8 /* Persian_cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Persian_cat.jpg; sourceTree = "<group>"; };
+		0952A31224A2432D00797DB8 /* Siamese.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Siamese.jpg; sourceTree = "<group>"; };
+		0952A31324A2432D00797DB8 /* Ragdoll.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ragdoll.jpg; sourceTree = "<group>"; };
+		0952A31424A2432D00797DB8 /* Savannah_cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Savannah_cat.jpg; sourceTree = "<group>"; };
+		0952A31524A2432D00797DB8 /* Munchkin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Munchkin.jpg; sourceTree = "<group>"; };
+		0952A31624A2432D00797DB8 /* Felis_silvestris_catus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Felis_silvestris_catus.jpg; sourceTree = "<group>"; };
+		0952A31724A2432D00797DB8 /* Bengal_cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bengal_cat.jpg; sourceTree = "<group>"; };
+		0952A32224A4F71600797DB8 /* Norway_Cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Norway_Cat.jpg; sourceTree = "<group>"; };
+		0952A32424A4F71F00797DB8 /* Russian_Blue.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Russian_Blue.jpg; sourceTree = "<group>"; };
+		0952A32624A4F72500797DB8 /* Siberian_cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Siberian_cat.jpg; sourceTree = "<group>"; };
+		0952A32824A4F72C00797DB8 /* Turkey_angora.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Turkey_angora.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +70,7 @@
 		0952A272249A5F4D00797DB8 = {
 			isa = PBXGroup;
 			children = (
+				0952A30D24A2432D00797DB8 /* picture */,
 				0952A27D249A5F4D00797DB8 /* MagicalGrid */,
 				0952A27C249A5F4D00797DB8 /* Products */,
 			);
@@ -59,7 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				0952A27E249A5F4D00797DB8 /* AppDelegate.swift */,
-				0952A280249A5F4D00797DB8 /* SceneDelegate.swift */,
+				0952A2BC249FA2F600797DB8 /* SceneDelegate.swift */,
 				0952A282249A5F4D00797DB8 /* ViewController.swift */,
 				0952A284249A5F4D00797DB8 /* Main.storyboard */,
 				0952A28A249A5F5000797DB8 /* Assets.xcassets */,
@@ -68,6 +97,27 @@
 				0952A287249A5F4D00797DB8 /* MagicalGrid.xcdatamodeld */,
 			);
 			path = MagicalGrid;
+			sourceTree = "<group>";
+		};
+		0952A30D24A2432D00797DB8 /* picture */ = {
+			isa = PBXGroup;
+			children = (
+				0952A30E24A2432D00797DB8 /* British_Shorthair.jpg */,
+				0952A30F24A2432D00797DB8 /* Sphynx.jpg */,
+				0952A31024A2432D00797DB8 /* Maine_Coon.jpg */,
+				0952A31124A2432D00797DB8 /* Persian_cat.jpg */,
+				0952A31224A2432D00797DB8 /* Siamese.jpg */,
+				0952A31324A2432D00797DB8 /* Ragdoll.jpg */,
+				0952A31424A2432D00797DB8 /* Savannah_cat.jpg */,
+				0952A31524A2432D00797DB8 /* Munchkin.jpg */,
+				0952A31624A2432D00797DB8 /* Felis_silvestris_catus.jpg */,
+				0952A31724A2432D00797DB8 /* Bengal_cat.jpg */,
+				0952A32224A4F71600797DB8 /* Norway_Cat.jpg */,
+				0952A32424A4F71F00797DB8 /* Russian_Blue.jpg */,
+				0952A32624A4F72500797DB8 /* Siberian_cat.jpg */,
+				0952A32824A4F72C00797DB8 /* Turkey_angora.jpg */,
+			);
+			path = picture;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,9 +178,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0952A32324A4F71600797DB8 /* Norway_Cat.jpg in Resources */,
+				0952A31F24A2432D00797DB8 /* Munchkin.jpg in Resources */,
+				0952A31E24A2432D00797DB8 /* Savannah_cat.jpg in Resources */,
+				0952A32724A4F72500797DB8 /* Siberian_cat.jpg in Resources */,
+				0952A31B24A2432D00797DB8 /* Persian_cat.jpg in Resources */,
+				0952A31D24A2432D00797DB8 /* Ragdoll.jpg in Resources */,
+				0952A32124A2432D00797DB8 /* Bengal_cat.jpg in Resources */,
+				0952A32524A4F71F00797DB8 /* Russian_Blue.jpg in Resources */,
+				0952A31C24A2432D00797DB8 /* Siamese.jpg in Resources */,
+				0952A32924A4F72C00797DB8 /* Turkey_angora.jpg in Resources */,
+				0952A31824A2432D00797DB8 /* British_Shorthair.jpg in Resources */,
+				0952A32024A2432D00797DB8 /* Felis_silvestris_catus.jpg in Resources */,
 				0952A28E249A5F5000797DB8 /* LaunchScreen.storyboard in Resources */,
 				0952A28B249A5F5000797DB8 /* Assets.xcassets in Resources */,
+				0952A31924A2432D00797DB8 /* Sphynx.jpg in Resources */,
 				0952A286249A5F4D00797DB8 /* Main.storyboard in Resources */,
+				0952A31A24A2432D00797DB8 /* Maine_Coon.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,7 +208,7 @@
 				0952A289249A5F4D00797DB8 /* MagicalGrid.xcdatamodeld in Sources */,
 				0952A283249A5F4D00797DB8 /* ViewController.swift in Sources */,
 				0952A27F249A5F4D00797DB8 /* AppDelegate.swift in Sources */,
-				0952A281249A5F4D00797DB8 /* SceneDelegate.swift in Sources */,
+				0952A2BD249FA2F700797DB8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,6 +355,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2X49Y8FTV3;
 				INFOPLIST_FILE = MagicalGrid/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -309,6 +374,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2X49Y8FTV3;
 				INFOPLIST_FILE = MagicalGrid/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
