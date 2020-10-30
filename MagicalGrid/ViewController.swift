@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  MagicalGrid
-//
-//  Created by 朱偉綸 on 2020/6/17.
-//  Copyright © 2020 朱偉綸. All rights reserved.
-//
 
 import UIKit
 
@@ -41,6 +34,7 @@ class ViewController: UIViewController {
                 cell[key] = cellView
             }
         }
+        //写真をランダムでいれる
         var arrPicPostion = [String]()
         for pic in pic_arr{
             var i = Int.random(in: 0 ... Int(viewNumForx!))
@@ -66,7 +60,7 @@ class ViewController: UIViewController {
     }
     
     var selectedView:UIView?
-    var strArr = ["","","0"]
+    var strArr = ["","","0"]  //x座標、y座標、開いてるかどうか
     @objc func handlePan(gesture: UIPanGestureRecognizer){
         let location = gesture.location(in: view)
         let i = Int(location.x / width)
